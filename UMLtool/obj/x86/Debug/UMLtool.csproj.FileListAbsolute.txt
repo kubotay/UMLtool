@@ -1,0 +1,16 @@
+c:\users\shigo\documents\visual studio 2010\Projects\UMLtool\UMLtool\bin\Debug\UMLtool.exe
+c:\users\shigo\documents\visual studio 2010\Projects\UMLtool\UMLtool\bin\Debug\UMLtool.pdb
+c:\users\shigo\documents\visual studio 2010\Projects\UMLtool\UMLtool\obj\x86\Debug\UMLtool.Form1.resources
+c:\users\shigo\documents\visual studio 2010\Projects\UMLtool\UMLtool\obj\x86\Debug\UMLtool.Properties.Resources.resources
+c:\users\shigo\documents\visual studio 2010\Projects\UMLtool\UMLtool\obj\x86\Debug\UMLtool.csproj.GenerateResource.Cache
+c:\users\shigo\documents\visual studio 2010\Projects\UMLtool\UMLtool\obj\x86\Debug\UMLtool.exe
+c:\users\shigo\documents\visual studio 2010\Projects\UMLtool\UMLtool\obj\x86\Debug\UMLtool.pdb
+C:\Users\shigo\documents\visual studio 2010\Projects\UMLtool\UMLtool\obj\x86\Debug\UMLtool.csprojResolveAssemblyReference.cache
+C:\Users\shigo\Desktop\UMLtool\UMLtool\obj\x86\Debug\UMLtool.exe
+C:\Users\shigo\Desktop\UMLtool\UMLtool\obj\x86\Debug\UMLtool.pdb
+C:\Users\shigo\Desktop\UMLtool\UMLtool\bin\Debug\UMLtool.exe
+C:\Users\shigo\Desktop\UMLtool\UMLtool\bin\Debug\UMLtool.pdb
+C:\Users\shigo\Desktop\UMLtool\UMLtool\obj\x86\Debug\UMLtool.csprojResolveAssemblyReference.cache
+C:\Users\shigo\Desktop\UMLtool\UMLtool\obj\x86\Debug\UMLtool.Form1.resources
+C:\Users\shigo\Desktop\UMLtool\UMLtool\obj\x86\Debug\UMLtool.Properties.Resources.resources
+C:\Users\shigo\Desktop\UMLtool\UMLtool\obj\x86\Debug\UMLtool.csproj.GenerateResource.Cache
